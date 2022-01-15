@@ -1,0 +1,24 @@
+
+
+p .odd{
+    background-color: rgb(185, 69, 69);
+    font: 'Verdana', 'sans-serif';
+
+}
+
+div #two {
+    color: blue;
+    font-size: 36px;
+}
+
+p.odd-three{
+    background-color: rgb(185, 69, 69);
+    font: 'Verdana', 'sans-serif';
+    font-size: 24px;
+}
+
+div #fourth{
+    background-color: rgb(75, 143, 75);
+    font-size: 24px;
+    font-weight: bold;
+}
